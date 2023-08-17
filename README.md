@@ -49,3 +49,6 @@
    - grid-row-start
    - grid-row-end
 - grid-area  
+
+
+... e mais 2 propriedade de **alnhamento**
