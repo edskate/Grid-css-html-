@@ -1,5 +1,5 @@
-# Grid css html 
- 
+# Grid css html
+
 # CSS GRID
 
 ## GRID
@@ -25,14 +25,15 @@
  "container" e "item(s)"
 
 ---
+
 ### CONTAINER
 
 - display: grid;
 - grid-template-columns;
 - grid-template-rows;
 - grid-grap
-    - grid-rows-gap
-    - grid-column-gap
+  - grid-rows-gap
+  - grid-column-gap
 - grid-tamplate-areas;
 
 ... e mais 4 propriedades e **alinhamento**
