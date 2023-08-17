@@ -37,3 +37,15 @@
 - grid-tamplate-areas;
 
 ... e mais 4 propriedades e **alinhamento**
+
+---
+
+## ITEM(s)
+
+- grid-column
+     - grid-column-start
+     - grid-column-end
+- grid-row
+   - grid-row-start
+   - grid-row-end
+- grid-area  
